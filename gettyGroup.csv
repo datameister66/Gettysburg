@@ -1,0 +1,280 @@
+"army","corps","division","brigade","type","state","numUnits"
+"Confederate","Ewell","Brown","Dance","Artillery","Virginia",5
+"Confederate","Ewell","Brown","Nelson","Artillery","Georgia",1
+"Confederate","Ewell","Brown","Nelson","Artillery","Virginia",2
+"Confederate","Ewell","Early","Gordon","Infantry","Georgia",6
+"Confederate","Ewell","Early","Hays","Infantry","Louisiana",5
+"Confederate","Ewell","Early","Hoke","Infantry","North Carolina",3
+"Confederate","Ewell","Early","Jones","Artillery","Louisiana",1
+"Confederate","Ewell","Early","Jones","Artillery","Virginia",3
+"Confederate","Ewell","Early","Smith","Infantry","Virginia",3
+"Confederate","Ewell","Johnson","Jones","Infantry","Virginia",6
+"Confederate","Ewell","Johnson","Latimer","Artillery","Maryland",2
+"Confederate","Ewell","Johnson","Latimer","Artillery","Virginia",2
+"Confederate","Ewell","Johnson","Nicholls","Infantry","Louisiana",5
+"Confederate","Ewell","Johnson","Steuart","Infantry","Maryland",1
+"Confederate","Ewell","Johnson","Steuart","Infantry","North Carolina",2
+"Confederate","Ewell","Johnson","Steuart","Infantry","Virginia",3
+"Confederate","Ewell","Johnson","Walker","Infantry","Virginia",5
+"Confederate","Ewell","Rodes","Carter","Artillery","Alabama",1
+"Confederate","Ewell","Rodes","Carter","Artillery","Virginia",3
+"Confederate","Ewell","Rodes","Daniel","Infantry","North Carolina",5
+"Confederate","Ewell","Rodes","Doles","Infantry","Georgia",4
+"Confederate","Ewell","Rodes","Iverson","Infantry","North Carolina",4
+"Confederate","Ewell","Rodes","Oneal","Infantry","Alabama",5
+"Confederate","Ewell","Rodes","Ramseur","Infantry","North Carolina",4
+"Confederate","Hill","Anderson","Lane","Artillery","South Carolina",3
+"Confederate","Hill","Anderson","Lang","Infantry","Florida",3
+"Confederate","Hill","Anderson","Mahone","Infantry","Virginia",5
+"Confederate","Hill","Anderson","Posey","Infantry","Mississippi",4
+"Confederate","Hill","Anderson","Wilcox","Infantry","Alabama",5
+"Confederate","Hill","Anderson","Wright","Infantry","Georgia",4
+"Confederate","Hill","Heth","Archer","Infantry","Alabama",2
+"Confederate","Hill","Heth","Archer","Infantry","Tennessee",3
+"Confederate","Hill","Heth","Brockenbrough","Infantry","Virginia",4
+"Confederate","Hill","Heth","Davis","Infantry","Mississippi",4
+"Confederate","Hill","Heth","Garnett","Artillery","Louisiana",1
+"Confederate","Hill","Heth","Garnett","Artillery","Virginia",3
+"Confederate","Hill","Heth","Pettigrew","Infantry","North Carolina",4
+"Confederate","Hill","Pender","Lane","Infantry","North Carolina",5
+"Confederate","Hill","Pender","Perrin","Infantry","South Carolina",5
+"Confederate","Hill","Pender","Poague","Artillery","Mississippi",1
+"Confederate","Hill","Pender","Poague","Artillery","North Carolina",1
+"Confederate","Hill","Pender","Poague","Artillery","Virginia",2
+"Confederate","Hill","Pender","Scales","Infantry","North Carolina",5
+"Confederate","Hill","Pender","Thomas","Infantry","Georgia",4
+"Confederate","Longstreet","Hood","Anderson","Infantry","Georgia",5
+"Confederate","Longstreet","Hood","Benning","Infantry","Georgia",4
+"Confederate","Longstreet","Hood","Henry","Artillery","North Carolina",2
+"Confederate","Longstreet","Hood","Henry","Artillery","South Carolina",2
+"Confederate","Longstreet","Hood","Law","Infantry","Alabama",5
+"Confederate","Longstreet","Hood","Robertson","Infantry","Arkansas",1
+"Confederate","Longstreet","Hood","Robertson","Infantry","Texas",3
+"Confederate","Longstreet","McLaws","Barksdale","Infantry","Mississippi",4
+"Confederate","Longstreet","McLaws","Cabell","Artillery","Georgia",2
+"Confederate","Longstreet","McLaws","Cabell","Artillery","North Carolina",1
+"Confederate","Longstreet","McLaws","Cabell","Artillery","Virginia",1
+"Confederate","Longstreet","McLaws","Kershaw","Infantry","South Carolina",6
+"Confederate","Longstreet","McLaws","Semmes","Infantry","Georgia",4
+"Confederate","Longstreet","McLaws","Wofford","Infantry","Georgia",5
+"Confederate","Longstreet","Pickett","Armistead","Infantry","Virginia",5
+"Confederate","Longstreet","Pickett","Dearing","Artillery","Virginia",4
+"Confederate","Longstreet","Pickett","Garnett","Infantry","Virginia",5
+"Confederate","Longstreet","Pickett","Kemper","Infantry","Virginia",5
+"Confederate","Longstreet","Walton","Alexander","Artillery","Louisiana",1
+"Confederate","Longstreet","Walton","Alexander","Artillery","South Carolina",1
+"Confederate","Longstreet","Walton","Alexander","Artillery","Virginia",4
+"Confederate","Longstreet","Walton","Eshleman","Artillery","Louisiana",4
+"Confederate","Pendleton","Walker","McIntosh","Artillery","Alabama",1
+"Confederate","Pendleton","Walker","McIntosh","Artillery","Virginia",3
+"Confederate","Pendleton","Walker","Pegram","Artillery","South Carolina",1
+"Confederate","Pendleton","Walker","Pegram","Artillery","Virginia",4
+"Confederate","Stuart","Stuart","Beckham","Artillery","Maryland",1
+"Confederate","Stuart","Stuart","Beckham","Artillery","South Carolina",1
+"Confederate","Stuart","Stuart","Beckham","Artillery","Virginia",4
+"Confederate","Stuart","Stuart","Chambliss","Cavalry","North Carolina",1
+"Confederate","Stuart","Stuart","Chambliss","Cavalry","Virginia",3
+"Confederate","Stuart","Stuart","Fitz_Lee","Cavalry","Maryland",1
+"Confederate","Stuart","Stuart","Fitz_Lee","Cavalry","Virginia",5
+"Confederate","Stuart","Stuart","Hampton","Cavalry","Georgia",2
+"Confederate","Stuart","Stuart","Hampton","Cavalry","Mississippi",1
+"Confederate","Stuart","Stuart","Hampton","Cavalry","North Carolina",1
+"Confederate","Stuart","Stuart","Hampton","Cavalry","South Carolina",2
+"Confederate","Stuart","Stuart","Jenkins","Artillery","Virginia",1
+"Confederate","Stuart","Stuart","Jenkins","Cavalry","Virginia",5
+"Confederate","Stuart","Stuart","Jones","Cavalry","Virginia",3
+"Confederate","Stuart","Stuart","Robertson","Cavalry","North Carolina",2
+"Union","Hancock","Artillery_Bde","Hazard","Artillery","New York",2
+"Union","Hancock","Artillery_Bde","Hazard","Artillery","Rhode Island",2
+"Union","Hancock","Artillery_Bde","Hazard","Artillery","US",2
+"Union","Hancock","Caldwell","Brooke","Infantry","Connecticut",1
+"Union","Hancock","Caldwell","Brooke","Infantry","Delaware",1
+"Union","Hancock","Caldwell","Brooke","Infantry","New York",1
+"Union","Hancock","Caldwell","Brooke","Infantry","Pennsylvania",2
+"Union","Hancock","Caldwell","Cross","Infantry","New Hampshire",1
+"Union","Hancock","Caldwell","Cross","Infantry","New York",1
+"Union","Hancock","Caldwell","Cross","Infantry","Pennsylvania",2
+"Union","Hancock","Caldwell","Kelly","Infantry","Massachusetts",1
+"Union","Hancock","Caldwell","Kelly","Infantry","New York",3
+"Union","Hancock","Caldwell","Kelly","Infantry","Pennsylvania",1
+"Union","Hancock","Caldwell","Zook","Infantry","New York",3
+"Union","Hancock","Caldwell","Zook","Infantry","Pennsylvania",1
+"Union","Hancock","Gibbon","Hall","Infantry","Massachusetts",2
+"Union","Hancock","Gibbon","Hall","Infantry","Michigan",1
+"Union","Hancock","Gibbon","Hall","Infantry","New York",2
+"Union","Hancock","Gibbon","Harrow","Infantry","Maine",1
+"Union","Hancock","Gibbon","Harrow","Infantry","Massachusetts",1
+"Union","Hancock","Gibbon","Harrow","Infantry","Minnesota",2
+"Union","Hancock","Gibbon","Harrow","Infantry","New York",1
+"Union","Hancock","Gibbon","Webb","Infantry","Pennsylvania",4
+"Union","Hancock","Hays","Carroll","Infantry","Indiana",1
+"Union","Hancock","Hays","Carroll","Infantry","Ohio",2
+"Union","Hancock","Hays","Carroll","Infantry","West Virginia",1
+"Union","Hancock","Hays","Smyth","Infantry","Connecticut",1
+"Union","Hancock","Hays","Smyth","Infantry","Delaware",1
+"Union","Hancock","Hays","Smyth","Infantry","New Jersey",1
+"Union","Hancock","Hays","Smyth","Infantry","New York",2
+"Union","Hancock","Hays","Willard","Infantry","New York",4
+"Union","Howard","Artillery_Bde","Osborn","Artillery","New York",2
+"Union","Howard","Artillery_Bde","Osborn","Artillery","Ohio",2
+"Union","Howard","Artillery_Bde","Osborn","Artillery","US",1
+"Union","Howard","Barlow","Ames","Infantry","Connecticut",1
+"Union","Howard","Barlow","Ames","Infantry","Ohio",3
+"Union","Howard","Barlow","von Gilsa","Infantry","New York",3
+"Union","Howard","Barlow","von Gilsa","Infantry","Pennsylvania",1
+"Union","Howard","Schurz","Krzyzanowski","Infantry","New York",2
+"Union","Howard","Schurz","Krzyzanowski","Infantry","Ohio",1
+"Union","Howard","Schurz","Krzyzanowski","Infantry","Pennsylvania",1
+"Union","Howard","Schurz","Krzyzanowski","Infantry","Wisconsin",1
+"Union","Howard","Schurz","Schimmelfennig","Infantry","Illinois",1
+"Union","Howard","Schurz","Schimmelfennig","Infantry","New York",2
+"Union","Howard","Schurz","Schimmelfennig","Infantry","Ohio",1
+"Union","Howard","Schurz","Schimmelfennig","Infantry","Pennsylvania",1
+"Union","Howard","von Steinwehr","Coster","Infantry","New York",2
+"Union","Howard","von Steinwehr","Coster","Infantry","Pennsylvania",2
+"Union","Howard","von Steinwehr","Smith","Infantry","Massachusetts",1
+"Union","Howard","von Steinwehr","Smith","Infantry","New York",1
+"Union","Howard","von Steinwehr","Smith","Infantry","Ohio",2
+"Union","Pleasonton","Buford","Devin","Cavalry","New York",2
+"Union","Pleasonton","Buford","Devin","Cavalry","Pennsylvania",1
+"Union","Pleasonton","Buford","Devin","Cavalry","West Virginia",1
+"Union","Pleasonton","Buford","Gamble","Cavalry","Illinois",2
+"Union","Pleasonton","Buford","Gamble","Cavalry","Indiana",1
+"Union","Pleasonton","Buford","Gamble","Cavalry","New York",1
+"Union","Pleasonton","Buford","Merritt","Cavalry","Pennsylvania",1
+"Union","Pleasonton","Buford","Merritt","Cavalry","US",4
+"Union","Pleasonton","Gregg","Gregg_J","Cavalry","Maine",1
+"Union","Pleasonton","Gregg","Gregg_J","Cavalry","New York",1
+"Union","Pleasonton","Gregg","Gregg_J","Cavalry","Pennsylvania",2
+"Union","Pleasonton","Gregg","Huey","Cavalry","New York",2
+"Union","Pleasonton","Gregg","Huey","Cavalry","Ohio",1
+"Union","Pleasonton","Gregg","Huey","Cavalry","Pennsylvania",1
+"Union","Pleasonton","Gregg","McIntosh","Artillery","Pennsylvania",1
+"Union","Pleasonton","Gregg","McIntosh","Cavalry","Maryland",1
+"Union","Pleasonton","Gregg","McIntosh","Cavalry","Massachusetts",1
+"Union","Pleasonton","Gregg","McIntosh","Cavalry","New Jersey",1
+"Union","Pleasonton","Gregg","McIntosh","Cavalry","Pennsylvania",2
+"Union","Pleasonton","Horse_Artillery","Robertson","Artillery","Michigan",1
+"Union","Pleasonton","Horse_Artillery","Robertson","Artillery","New York",1
+"Union","Pleasonton","Horse_Artillery","Robertson","Artillery","US",3
+"Union","Pleasonton","Horse_Artillery","Tidball","Artillery","US",5
+"Union","Pleasonton","Kilpatrick","Custer","Cavalry","Michigan",4
+"Union","Pleasonton","Kilpatrick","Farnsworth","Cavalry","New York",1
+"Union","Pleasonton","Kilpatrick","Farnsworth","Cavalry","Pennsylvania",1
+"Union","Pleasonton","Kilpatrick","Farnsworth","Cavalry","Vermont",1
+"Union","Pleasonton","Kilpatrick","Farnsworth","Cavalry","West Virginia",1
+"Union","Reynolds","Artillery_Bde","Wainwright","Artillery","Maine",2
+"Union","Reynolds","Artillery_Bde","Wainwright","Artillery","New York",1
+"Union","Reynolds","Artillery_Bde","Wainwright","Artillery","Pennsylvania",1
+"Union","Reynolds","Artillery_Bde","Wainwright","Artillery","US",1
+"Union","Reynolds","Robinson","Baxter","Infantry","Massachusetts",1
+"Union","Reynolds","Robinson","Baxter","Infantry","New York",2
+"Union","Reynolds","Robinson","Baxter","Infantry","Pennsylvania",3
+"Union","Reynolds","Robinson","Paul","Infantry","Maine",1
+"Union","Reynolds","Robinson","Paul","Infantry","Massachusetts",1
+"Union","Reynolds","Robinson","Paul","Infantry","New York",2
+"Union","Reynolds","Robinson","Paul","Infantry","Pennsylvania",1
+"Union","Reynolds","Rowley","Biddle","Infantry","Pennsylvania",3
+"Union","Reynolds","Rowley","Stannard","Infantry","Vermont",3
+"Union","Reynolds","Rowley","Stone","Infantry","Pennsylvania",3
+"Union","Reynolds","Wadsworth","Cutler","Infantry","Indiana",1
+"Union","Reynolds","Wadsworth","Cutler","Infantry","New York",4
+"Union","Reynolds","Wadsworth","Cutler","Infantry","Pennsylvania",1
+"Union","Reynolds","Wadsworth","Meredith","Infantry","Indiana",1
+"Union","Reynolds","Wadsworth","Meredith","Infantry","Michigan",1
+"Union","Reynolds","Wadsworth","Meredith","Infantry","Wisconsin",3
+"Union","Sedgwick","Artillery_Bde","Tompkins","Artillery","Massachusetts",1
+"Union","Sedgwick","Artillery_Bde","Tompkins","Artillery","New York",2
+"Union","Sedgwick","Artillery_Bde","Tompkins","Artillery","Rhode Island",2
+"Union","Sedgwick","Artillery_Bde","Tompkins","Artillery","US",3
+"Union","Sedgwick","Howe","Grant","Infantry","Vermont",5
+"Union","Sedgwick","Howe","Neill","Infantry","Maine",1
+"Union","Sedgwick","Howe","Neill","Infantry","New York",4
+"Union","Sedgwick","Howe","Neill","Infantry","Pennsylvania",1
+"Union","Sedgwick","Newton","Eustis","Infantry","Massachusetts",3
+"Union","Sedgwick","Newton","Eustis","Infantry","Rhode Island",1
+"Union","Sedgwick","Newton","Shaler","Infantry","New York",3
+"Union","Sedgwick","Newton","Shaler","Infantry","Pennsylvania",2
+"Union","Sedgwick","Newton","Wheaton","Infantry","New York",1
+"Union","Sedgwick","Newton","Wheaton","Infantry","Pennsylvania",4
+"Union","Sedgwick","Wright","Bartlett","Infantry","Maine",1
+"Union","Sedgwick","Wright","Bartlett","Infantry","New York",1
+"Union","Sedgwick","Wright","Bartlett","Infantry","Pennsylvania",2
+"Union","Sedgwick","Wright","Russell","Infantry","Maine",1
+"Union","Sedgwick","Wright","Russell","Infantry","Pennsylvania",2
+"Union","Sedgwick","Wright","Russell","Infantry","Wisconsin",1
+"Union","Sedgwick","Wright","Torbert","Infantry","New Jersey",4
+"Union","Sickles","Artillery_Bde","Randolph","Artillery","New Jersey",1
+"Union","Sickles","Artillery_Bde","Randolph","Artillery","New York",2
+"Union","Sickles","Artillery_Bde","Randolph","Artillery","Rhode Island",1
+"Union","Sickles","Artillery_Bde","Randolph","Artillery","US",1
+"Union","Sickles","Birney","de Trobriand","Infantry","Maine",1
+"Union","Sickles","Birney","de Trobriand","Infantry","Michigan",2
+"Union","Sickles","Birney","de Trobriand","Infantry","New York",1
+"Union","Sickles","Birney","de Trobriand","Infantry","Pennsylvania",1
+"Union","Sickles","Birney","Graham","Infantry","Pennsylvania",6
+"Union","Sickles","Birney","Ward","Infantry","Indiana",1
+"Union","Sickles","Birney","Ward","Infantry","Maine",2
+"Union","Sickles","Birney","Ward","Infantry","New York",2
+"Union","Sickles","Birney","Ward","Infantry","Pennsylvania",1
+"Union","Sickles","Birney","Ward","Infantry","US",2
+"Union","Sickles","Humphreys","Brewster","Infantry","New York",6
+"Union","Sickles","Humphreys","Burling","Infantry","New Hampshire",1
+"Union","Sickles","Humphreys","Burling","Infantry","New Jersey",4
+"Union","Sickles","Humphreys","Burling","Infantry","Pennsylvania",1
+"Union","Sickles","Humphreys","Carr","Infantry","Massachusetts",3
+"Union","Sickles","Humphreys","Carr","Infantry","New Hampshire",1
+"Union","Sickles","Humphreys","Carr","Infantry","New Jersey",1
+"Union","Sickles","Humphreys","Carr","Infantry","Pennsylvania",1
+"Union","Slocum","Artillery_Bde","Muhlenberg","Artillery","New York",1
+"Union","Slocum","Artillery_Bde","Muhlenberg","Artillery","Pennsylvania",1
+"Union","Slocum","Artillery_Bde","Muhlenberg","Artillery","US",2
+"Union","Slocum","Geary","Candy","Infantry","Ohio",4
+"Union","Slocum","Geary","Candy","Infantry","Pennsylvania",2
+"Union","Slocum","Geary","Cobham","Infantry","Pennsylvania",3
+"Union","Slocum","Geary","Greene","Infantry","New York",5
+"Union","Slocum","Williams","Lockwood","Infantry","Maryland",2
+"Union","Slocum","Williams","Lockwood","Infantry","New York",1
+"Union","Slocum","Williams","McDougall","Infantry","Connecticut",2
+"Union","Slocum","Williams","McDougall","Infantry","Maryland",1
+"Union","Slocum","Williams","McDougall","Infantry","New York",2
+"Union","Slocum","Williams","McDougall","Infantry","Pennsylvania",1
+"Union","Slocum","Williams","Ruger","Infantry","Indiana",1
+"Union","Slocum","Williams","Ruger","Infantry","Massachusetts",1
+"Union","Slocum","Williams","Ruger","Infantry","New Jersey",1
+"Union","Slocum","Williams","Ruger","Infantry","New York",1
+"Union","Slocum","Williams","Ruger","Infantry","Wisconsin",1
+"Union","Sykes","Artillery_Bde","Martin","Artillery","Massachusetts",1
+"Union","Sykes","Artillery_Bde","Martin","Artillery","New York",1
+"Union","Sykes","Artillery_Bde","Martin","Artillery","Ohio",1
+"Union","Sykes","Artillery_Bde","Martin","Artillery","US",2
+"Union","Sykes","Ayres","Burbank","Infantry","US",5
+"Union","Sykes","Ayres","Day","Infantry","US",5
+"Union","Sykes","Ayres","Weed","Infantry","New York",2
+"Union","Sykes","Ayres","Weed","Infantry","Pennsylvania",2
+"Union","Sykes","Barnes","Sweitzer","Infantry","Massachusetts",2
+"Union","Sykes","Barnes","Sweitzer","Infantry","Michigan",1
+"Union","Sykes","Barnes","Sweitzer","Infantry","Pennsylvania",1
+"Union","Sykes","Barnes","Tilton","Infantry","Massachusetts",2
+"Union","Sykes","Barnes","Tilton","Infantry","Michigan",1
+"Union","Sykes","Barnes","Tilton","Infantry","Pennsylvania",1
+"Union","Sykes","Barnes","Vincent","Infantry","Maine",1
+"Union","Sykes","Barnes","Vincent","Infantry","Michigan",1
+"Union","Sykes","Barnes","Vincent","Infantry","New York",1
+"Union","Sykes","Barnes","Vincent","Infantry","Pennsylvania",1
+"Union","Sykes","Crawford","Fisher","Infantry","Pennsylvania",5
+"Union","Sykes","Crawford","McCandless","Infantry","Pennsylvania",4
+"Union","Tyler","Artillery_Reserve","Fitzhugh","Artillery","Maine",1
+"Union","Tyler","Artillery_Reserve","Fitzhugh","Artillery","Maryland",1
+"Union","Tyler","Artillery_Reserve","Fitzhugh","Artillery","New Jersey",1
+"Union","Tyler","Artillery_Reserve","Fitzhugh","Artillery","New York",2
+"Union","Tyler","Artillery_Reserve","Huntington","Artillery","New Hampshire",1
+"Union","Tyler","Artillery_Reserve","Huntington","Artillery","Ohio",1
+"Union","Tyler","Artillery_Reserve","Huntington","Artillery","Pennsylvania",2
+"Union","Tyler","Artillery_Reserve","Huntington","Artillery","West Virginia",1
+"Union","Tyler","Artillery_Reserve","McGilvery","Artillery","Massachusetts",2
+"Union","Tyler","Artillery_Reserve","McGilvery","Artillery","New York",1
+"Union","Tyler","Artillery_Reserve","McGilvery","Artillery","Pennsylvania",2
+"Union","Tyler","Artillery_Reserve","Ransom","Artillery","US",5
+"Union","Tyler","Artillery_Reserve","Taft","Artillery","Connecticut",3
+"Union","Tyler","Artillery_Reserve","Taft","Artillery","New York",1

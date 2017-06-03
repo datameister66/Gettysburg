@@ -1,0 +1,612 @@
+type,state,regiment,brigade,division,corps,army
+Infantry,Indiana,19th,Meredith,Wadsworth,Reynolds,Union
+Infantry,Michigan,24th,Meredith,Wadsworth,Reynolds,Union
+Infantry,Wisconsin,2nd,Meredith,Wadsworth,Reynolds,Union
+Infantry,Wisconsin,6th,Meredith,Wadsworth,Reynolds,Union
+Infantry,Wisconsin,7th,Meredith,Wadsworth,Reynolds,Union
+Infantry,Indiana,7th,Cutler,Wadsworth,Reynolds,Union
+Infantry,New York,76th,Cutler,Wadsworth,Reynolds,Union
+Infantry,New York,84th,Cutler,Wadsworth,Reynolds,Union
+Infantry,New York,95th,Cutler,Wadsworth,Reynolds,Union
+Infantry,New York,147th,Cutler,Wadsworth,Reynolds,Union
+Infantry,Pennsylvania,56th,Cutler,Wadsworth,Reynolds,Union
+Infantry,Maine,16th,Paul,Robinson,Reynolds,Union
+Infantry,Massachusetts,13th,Paul,Robinson,Reynolds,Union
+Infantry,New York,94th,Paul,Robinson,Reynolds,Union
+Infantry,New York,104th,Paul,Robinson,Reynolds,Union
+Infantry,Pennsylvania,107th,Paul,Robinson,Reynolds,Union
+Infantry,Massachusetts,12th,Baxter,Robinson,Reynolds,Union
+Infantry,New York,83rd,Baxter,Robinson,Reynolds,Union
+Infantry,New York,97th,Baxter,Robinson,Reynolds,Union
+Infantry,Pennsylvania,iith,Baxter,Robinson,Reynolds,Union
+Infantry,Pennsylvania,88th,Baxter,Robinson,Reynolds,Union
+Infantry,Pennsylvania,90th,Baxter,Robinson,Reynolds,Union
+Infantry,Pennsylvania,121st,Biddle,Rowley,Reynolds,Union
+Infantry,Pennsylvania,142nd,Biddle,Rowley,Reynolds,Union
+Infantry,Pennsylvania,151st,Biddle,Rowley,Reynolds,Union
+Infantry,Pennsylvania,143rd,Stone,Rowley,Reynolds,Union
+Infantry,Pennsylvania,49th,Stone,Rowley,Reynolds,Union
+Infantry,Pennsylvania,150th,Stone,Rowley,Reynolds,Union
+Infantry,Vermont,13th,Stannard,Rowley,Reynolds,Union
+Infantry,Vermont,4th,Stannard,Rowley,Reynolds,Union
+Infantry,Vermont,16th,Stannard,Rowley,Reynolds,Union
+Artillery,US,Bty_B_4th,Wainwright,Artillery_Bde,Reynolds,Union
+Artillery,Maine,Bty_B_Light,Wainwright,Artillery_Bde,Reynolds,Union
+Artillery,Maine,Bty_E_Light,Wainwright,Artillery_Bde,Reynolds,Union
+Artillery,New York,Bty_E_1st_Light,Wainwright,Artillery_Bde,Reynolds,Union
+Artillery,Pennsylvania,Bty_B_Light,Wainwright,Artillery_Bde,Reynolds,Union
+Infantry,New Hampshire,5th,Cross,Caldwell,Hancock,Union
+Infantry,New York,61st,Cross,Caldwell,Hancock,Union
+Infantry,Pennsylvania,81st,Cross,Caldwell,Hancock,Union
+Infantry,Pennsylvania,148th,Cross,Caldwell,Hancock,Union
+Infantry,Massachusetts,28th,Kelly,Caldwell,Hancock,Union
+Infantry,New York,63rd,Kelly,Caldwell,Hancock,Union
+Infantry,New York,69th,Kelly,Caldwell,Hancock,Union
+Infantry,New York,88th,Kelly,Caldwell,Hancock,Union
+Infantry,Pennsylvania,116th,Kelly,Caldwell,Hancock,Union
+Infantry,New York,52nd,Zook,Caldwell,Hancock,Union
+Infantry,New York,57th,Zook,Caldwell,Hancock,Union
+Infantry,New York,66th,Zook,Caldwell,Hancock,Union
+Infantry,Pennsylvania,140th,Zook,Caldwell,Hancock,Union
+Infantry,Connecticut,27th,Brooke,Caldwell,Hancock,Union
+Infantry,Delaware,2nd,Brooke,Caldwell,Hancock,Union
+Infantry,New York,64th,Brooke,Caldwell,Hancock,Union
+Infantry,Pennsylvania,53rd,Brooke,Caldwell,Hancock,Union
+Infantry,Pennsylvania,145th,Brooke,Caldwell,Hancock,Union
+Infantry,Maine,19th,Harrow,Gibbon,Hancock,Union
+Infantry,Massachusetts,15th,Harrow,Gibbon,Hancock,Union
+Infantry,Minnesota,1st,Harrow,Gibbon,Hancock,Union
+Infantry,Minnesota,2nd_Co_Sharp,Harrow,Gibbon,Hancock,Union
+Infantry,New York,82nd,Harrow,Gibbon,Hancock,Union
+Infantry,Pennsylvania,69th,Webb,Gibbon,Hancock,Union
+Infantry,Pennsylvania,71st,Webb,Gibbon,Hancock,Union
+Infantry,Pennsylvania,72nd,Webb,Gibbon,Hancock,Union
+Infantry,Pennsylvania,106th,Webb,Gibbon,Hancock,Union
+Infantry,Massachusetts,19th,Hall,Gibbon,Hancock,Union
+Infantry,Massachusetts,10th,Hall,Gibbon,Hancock,Union
+Infantry,Michigan,7th,Hall,Gibbon,Hancock,Union
+Infantry,New York,42nd,Hall,Gibbon,Hancock,Union
+Infantry,New York,59th,Hall,Gibbon,Hancock,Union
+Infantry,Indiana,14th,Carroll,Hays,Hancock,Union
+Infantry,Ohio,4th,Carroll,Hays,Hancock,Union
+Infantry,Ohio,8th,Carroll,Hays,Hancock,Union
+Infantry,West Virginia,7th,Carroll,Hays,Hancock,Union
+Infantry,Connecticut,14th,Smyth,Hays,Hancock,Union
+Infantry,Delaware,1st,Smyth,Hays,Hancock,Union
+Infantry,New Jersey,12th,Smyth,Hays,Hancock,Union
+Infantry,New York,10th,Smyth,Hays,Hancock,Union
+Infantry,New York,108th,Smyth,Hays,Hancock,Union
+Infantry,New York,39th,Willard,Hays,Hancock,Union
+Infantry,New York,111th,Willard,Hays,Hancock,Union
+Infantry,New York,125th,Willard,Hays,Hancock,Union
+Infantry,New York,126th,Willard,Hays,Hancock,Union
+Artillery,US,Bty_I_1st,Hazard,Artillery_Bde,Hancock,Union
+Artillery,US,Bty_A_4th,Hazard,Artillery_Bde,Hancock,Union
+Artillery,New York,Bty_B_1st,Hazard,Artillery_Bde,Hancock,Union
+Artillery,New York,Bty_14th,Hazard,Artillery_Bde,Hancock,Union
+Artillery,Rhode Island,Bty_A_1st_Light,Hazard,Artillery_Bde,Hancock,Union
+Artillery,Rhode Island,Bty_B_1st_Light,Hazard,Artillery_Bde,Hancock,Union
+Infantry,Pennsylvania,57th,Graham,Birney,Sickles,Union
+Infantry,Pennsylvania,63rd,Graham,Birney,Sickles,Union
+Infantry,Pennsylvania,68th,Graham,Birney,Sickles,Union
+Infantry,Pennsylvania,105th,Graham,Birney,Sickles,Union
+Infantry,Pennsylvania,114th,Graham,Birney,Sickles,Union
+Infantry,Pennsylvania,141st,Graham,Birney,Sickles,Union
+Infantry,US,1st_Sharp,Ward,Birney,Sickles,Union
+Infantry,US,2nd_Sharp,Ward,Birney,Sickles,Union
+Infantry,Indiana,20th,Ward,Birney,Sickles,Union
+Infantry,Maine,3rd,Ward,Birney,Sickles,Union
+Infantry,Maine,4th,Ward,Birney,Sickles,Union
+Infantry,New York,86th,Ward,Birney,Sickles,Union
+Infantry,New York,124th,Ward,Birney,Sickles,Union
+Infantry,Pennsylvania,99th,Ward,Birney,Sickles,Union
+Infantry,Maine,17th,de Trobriand,Birney,Sickles,Union
+Infantry,Michigan,3rd,de Trobriand,Birney,Sickles,Union
+Infantry,Michigan,5th,de Trobriand,Birney,Sickles,Union
+Infantry,New York,40th,de Trobriand,Birney,Sickles,Union
+Infantry,Pennsylvania,110th,de Trobriand,Birney,Sickles,Union
+Infantry,Massachusetts,1st,Carr ,Humphreys,Sickles,Union
+Infantry,Massachusetts,11th,Carr ,Humphreys,Sickles,Union
+Infantry,Massachusetts,16th,Carr ,Humphreys,Sickles,Union
+Infantry,New Hampshire,12th,Carr ,Humphreys,Sickles,Union
+Infantry,New Jersey,11th,Carr ,Humphreys,Sickles,Union
+Infantry,Pennsylvania,26th,Carr ,Humphreys,Sickles,Union
+Infantry,New York,10th,Brewster,Humphreys,Sickles,Union
+Infantry,New York,71st,Brewster,Humphreys,Sickles,Union
+Infantry,New York,72nd,Brewster,Humphreys,Sickles,Union
+Infantry,New York,73rd,Brewster,Humphreys,Sickles,Union
+Infantry,New York,74th,Brewster,Humphreys,Sickles,Union
+Infantry,New York,120th,Brewster,Humphreys,Sickles,Union
+Infantry,New Hampshire,2nd,Burling,Humphreys,Sickles,Union
+Infantry,New Jersey,5th,Burling,Humphreys,Sickles,Union
+Infantry,New Jersey,6th,Burling,Humphreys,Sickles,Union
+Infantry,New Jersey,7th,Burling,Humphreys,Sickles,Union
+Infantry,New Jersey,8th,Burling,Humphreys,Sickles,Union
+Infantry,Pennsylvania,115th,Burling,Humphreys,Sickles,Union
+Artillery,US,Bty_K_4th,Randolph,Artillery_Bde,Sickles,Union
+Artillery,New Jersey,Bty_2nd_Light,Randolph,Artillery_Bde,Sickles,Union
+Artillery,New York,Bty_D_1st_Light,Randolph,Artillery_Bde,Sickles,Union
+Artillery,New York,Bty_4th_ Light,Randolph,Artillery_Bde,Sickles,Union
+Artillery,Rhode Island,Bty_E_1st_Light,Randolph,Artillery_Bde,Sickles,Union
+Infantry,Massachusetts,18th,Tilton,Barnes,Sykes,Union
+Infantry,Massachusetts,22nd,Tilton,Barnes,Sykes,Union
+Infantry,Michigan,1st,Tilton,Barnes,Sykes,Union
+Infantry,Pennsylvania,118th,Tilton,Barnes,Sykes,Union
+Infantry,Massachusetts,9th,Sweitzer,Barnes,Sykes,Union
+Infantry,Massachusetts,32nd,Sweitzer,Barnes,Sykes,Union
+Infantry,Michigan,4th,Sweitzer,Barnes,Sykes,Union
+Infantry,Pennsylvania,62nd,Sweitzer,Barnes,Sykes,Union
+Infantry,Maine,20th,Vincent,Barnes,Sykes,Union
+Infantry,Michigan,16th,Vincent,Barnes,Sykes,Union
+Infantry,New York,44th,Vincent,Barnes,Sykes,Union
+Infantry,Pennsylvania,83rd,Vincent,Barnes,Sykes,Union
+Infantry,US,3rd,Day,Ayres,Sykes,Union
+Infantry,US,4th,Day,Ayres,Sykes,Union
+Infantry,US,6th,Day,Ayres,Sykes,Union
+Infantry,US,12th,Day,Ayres,Sykes,Union
+Infantry,US,14th,Day,Ayres,Sykes,Union
+Infantry,US,2nd,Burbank,Ayres,Sykes,Union
+Infantry,US,7th,Burbank,Ayres,Sykes,Union
+Infantry,US,10th,Burbank,Ayres,Sykes,Union
+Infantry,US,11th,Burbank,Ayres,Sykes,Union
+Infantry,US,17th,Burbank,Ayres,Sykes,Union
+Infantry,New York,140th,Weed,Ayres,Sykes,Union
+Infantry,New York,146th,Weed,Ayres,Sykes,Union
+Infantry,Pennsylvania,91st,Weed,Ayres,Sykes,Union
+Infantry,Pennsylvania,155th,Weed,Ayres,Sykes,Union
+Infantry,Pennsylvania,1st_Reserves,McCandless,Crawford,Sykes,Union
+Infantry,Pennsylvania,2nd_Reserves,McCandless,Crawford,Sykes,Union
+Infantry,Pennsylvania,6th_Reserves,McCandless,Crawford,Sykes,Union
+Infantry,Pennsylvania,13th_Reserves,McCandless,Crawford,Sykes,Union
+Infantry,Pennsylvania,5th_Reserves,Fisher,Crawford,Sykes,Union
+Infantry,Pennsylvania,9th_Reserves,Fisher,Crawford,Sykes,Union
+Infantry,Pennsylvania,10th_Reserves,Fisher,Crawford,Sykes,Union
+Infantry,Pennsylvania,11th_Reserves,Fisher,Crawford,Sykes,Union
+Infantry,Pennsylvania,12th_Reserves,Fisher,Crawford,Sykes,Union
+Artillery,US,Bty_D_5th,Martin,Artillery_Bde,Sykes,Union
+Artillery,US,Bty_I_5th,Martin,Artillery_Bde,Sykes,Union
+Artillery,Massachusetts,Bty_C_Light,Martin,Artillery_Bde,Sykes,Union
+Artillery,New York,Bty_C_1st_Light,Martin,Artillery_Bde,Sykes,Union
+Artillery,Ohio,Bty_L_1st_Light,Martin,Artillery_Bde,Sykes,Union
+Infantry,New Jersey,1st,Torbert,Wright,Sedgwick,Union
+Infantry,New Jersey,2nd,Torbert,Wright,Sedgwick,Union
+Infantry,New Jersey,3rd,Torbert,Wright,Sedgwick,Union
+Infantry,New Jersey,15th,Torbert,Wright,Sedgwick,Union
+Infantry,Maine,5th,Bartlett,Wright,Sedgwick,Union
+Infantry,New York,121st,Bartlett,Wright,Sedgwick,Union
+Infantry,Pennsylvania,95th,Bartlett,Wright,Sedgwick,Union
+Infantry,Pennsylvania,96th,Bartlett,Wright,Sedgwick,Union
+Infantry,Maine,6th,Russell,Wright,Sedgwick,Union
+Infantry,Pennsylvania,49th,Russell,Wright,Sedgwick,Union
+Infantry,Pennsylvania,119th,Russell,Wright,Sedgwick,Union
+Infantry,Wisconsin,5th,Russell,Wright,Sedgwick,Union
+Infantry,Vermont,2nd,Grant,Howe,Sedgwick,Union
+Infantry,Vermont,3rd,Grant,Howe,Sedgwick,Union
+Infantry,Vermont,4th,Grant,Howe,Sedgwick,Union
+Infantry,Vermont,5th,Grant,Howe,Sedgwick,Union
+Infantry,Vermont,6th,Grant,Howe,Sedgwick,Union
+Infantry,Maine,7th,Neill,Howe,Sedgwick,Union
+Infantry,New York,33rd,Neill,Howe,Sedgwick,Union
+Infantry,New York,43rd,Neill,Howe,Sedgwick,Union
+Infantry,New York,49th,Neill,Howe,Sedgwick,Union
+Infantry,New York,77th,Neill,Howe,Sedgwick,Union
+Infantry,Pennsylvania,61st,Neill,Howe,Sedgwick,Union
+Infantry,New York,65th,Shaler,Newton,Sedgwick,Union
+Infantry,New York,67th,Shaler,Newton,Sedgwick,Union
+Infantry,New York,122nd,Shaler,Newton,Sedgwick,Union
+Infantry,Pennsylvania,23rd,Shaler,Newton,Sedgwick,Union
+Infantry,Pennsylvania,82nd,Shaler,Newton,Sedgwick,Union
+Infantry,Massachusetts,7th,Eustis,Newton,Sedgwick,Union
+Infantry,Massachusetts,10th,Eustis,Newton,Sedgwick,Union
+Infantry,Massachusetts,37th,Eustis,Newton,Sedgwick,Union
+Infantry,Rhode Island,2nd,Eustis,Newton,Sedgwick,Union
+Infantry,New York,62nd,Wheaton,Newton,Sedgwick,Union
+Infantry,Pennsylvania,93rd,Wheaton,Newton,Sedgwick,Union
+Infantry,Pennsylvania,98th,Wheaton,Newton,Sedgwick,Union
+Infantry,Pennsylvania,102nd,Wheaton,Newton,Sedgwick,Union
+Infantry,Pennsylvania,139th,Wheaton,Newton,Sedgwick,Union
+Artillery,Massachusetts,Bty_A_1st_Light,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,New York,Bty_1st_Light,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,New York,Bty_3rd_Light,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,Rhode Island,Bty_C_1st_Light,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,Rhode Island,Bty_G_1st_Light,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,US,Bty_D,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,US,Bty_G_2nd,Tompkins,Artillery_Bde,Sedgwick,Union
+Artillery,US,Bty_F_5th,Tompkins,Artillery_Bde,Sedgwick,Union
+Infantry,New York,41st,von Gilsa,Barlow,Howard,Union
+Infantry,New York,54th,von Gilsa,Barlow,Howard,Union
+Infantry,New York,68th,von Gilsa,Barlow,Howard,Union
+Infantry,Pennsylvania,153rd,von Gilsa,Barlow,Howard,Union
+Infantry,Connecticut,17th,Ames,Barlow,Howard,Union
+Infantry,Ohio,25th,Ames,Barlow,Howard,Union
+Infantry,Ohio,75th,Ames,Barlow,Howard,Union
+Infantry,Ohio,107th,Ames,Barlow,Howard,Union
+Infantry,New York,134th,Coster,von Steinwehr,Howard,Union
+Infantry,New York,154th,Coster,von Steinwehr,Howard,Union
+Infantry,Pennsylvania,27th,Coster,von Steinwehr,Howard,Union
+Infantry,Pennsylvania,73rd,Coster,von Steinwehr,Howard,Union
+Infantry,Massachusetts,33rd,Smith,von Steinwehr,Howard,Union
+Infantry,New York,136th,Smith,von Steinwehr,Howard,Union
+Infantry,Ohio,55th,Smith,von Steinwehr,Howard,Union
+Infantry,Ohio,73rd,Smith,von Steinwehr,Howard,Union
+Infantry,Illinois,82nd,Schimmelfennig,Schurz,Howard,Union
+Infantry,New York,45th,Schimmelfennig,Schurz,Howard,Union
+Infantry,New York,157th,Schimmelfennig,Schurz,Howard,Union
+Infantry,Ohio,61st,Schimmelfennig,Schurz,Howard,Union
+Infantry,Pennsylvania,74th,Schimmelfennig,Schurz,Howard,Union
+Infantry,New York,58th,Krzyzanowski,Schurz,Howard,Union
+Infantry,New York,119th,Krzyzanowski,Schurz,Howard,Union
+Infantry,Ohio,82nd,Krzyzanowski,Schurz,Howard,Union
+Infantry,Pennsylvania,75th,Krzyzanowski,Schurz,Howard,Union
+Infantry,Wisconsin,26th,Krzyzanowski,Schurz,Howard,Union
+Artillery,New York,Bty_I_1st_Light,Osborn,Artillery_Bde,Howard,Union
+Artillery,New York,Bty_13th_Light,Osborn,Artillery_Bde,Howard,Union
+Artillery,Ohio,Bty_I_1st_Light,Osborn,Artillery_Bde,Howard,Union
+Artillery,Ohio,Bty_K_1st_Light,Osborn,Artillery_Bde,Howard,Union
+Artillery,US,Bty_G_4th,Osborn,Artillery_Bde,Howard,Union
+Infantry,Connecticut,5th,McDougall,Williams,Slocum,Union
+Infantry,Connecticut,20th,McDougall,Williams,Slocum,Union
+Infantry,Maryland,3rd,McDougall,Williams,Slocum,Union
+Infantry,New York,123rd,McDougall,Williams,Slocum,Union
+Infantry,New York,145th,McDougall,Williams,Slocum,Union
+Infantry,Pennsylvania,46th,McDougall,Williams,Slocum,Union
+Infantry,Maryland,1st_Potomac,Lockwood,Williams,Slocum,Union
+Infantry,Maryland,1st_EasternShore,Lockwood,Williams,Slocum,Union
+Infantry,New York,15oth,Lockwood,Williams,Slocum,Union
+Infantry,Indiana,27th,Ruger,Williams,Slocum,Union
+Infantry,Massachusetts,2nd,Ruger,Williams,Slocum,Union
+Infantry,New Jersey,13th,Ruger,Williams,Slocum,Union
+Infantry,New York,107th,Ruger,Williams,Slocum,Union
+Infantry,Wisconsin,3rd,Ruger,Williams,Slocum,Union
+Infantry,Ohio,5th,Candy,Geary,Slocum,Union
+Infantry,Ohio,7th,Candy,Geary,Slocum,Union
+Infantry,Ohio,29th,Candy,Geary,Slocum,Union
+Infantry,Ohio,66th,Candy,Geary,Slocum,Union
+Infantry,Pennsylvania,28th,Candy,Geary,Slocum,Union
+Infantry,Pennsylvania,147th,Candy,Geary,Slocum,Union
+Infantry,Pennsylvania,29th,Cobham,Geary,Slocum,Union
+Infantry,Pennsylvania,109th,Cobham,Geary,Slocum,Union
+Infantry,Pennsylvania,111th,Cobham,Geary,Slocum,Union
+Infantry,New York,60th,Greene,Geary,Slocum,Union
+Infantry,New York,78th,Greene,Geary,Slocum,Union
+Infantry,New York,102nd,Greene,Geary,Slocum,Union
+Infantry,New York,137th,Greene,Geary,Slocum,Union
+Infantry,New York,149th,Greene,Geary,Slocum,Union
+Artillery,New York,Bty_M_1st_Light,Muhlenberg,Artillery_Bde,Slocum,Union
+Artillery,Pennsylvania,Bty_E_Light,Muhlenberg,Artillery_Bde,Slocum,Union
+Artillery,US,Bty_F_4th,Muhlenberg,Artillery_Bde,Slocum,Union
+Artillery,US,Bty_K_5th,Muhlenberg,Artillery_Bde,Slocum,Union
+Cavalry,Illinois,8th,Gamble,Buford,Pleasonton,Union
+Cavalry,Illinois,12th,Gamble,Buford,Pleasonton,Union
+Cavalry,Indiana,3rd,Gamble,Buford,Pleasonton,Union
+Cavalry,New York,8th,Gamble,Buford,Pleasonton,Union
+Cavalry,New York,6th,Devin,Buford,Pleasonton,Union
+Cavalry,New York,9th,Devin,Buford,Pleasonton,Union
+Cavalry,Pennsylvania,17th,Devin,Buford,Pleasonton,Union
+Cavalry,West Virginia,3rd,Devin,Buford,Pleasonton,Union
+Cavalry,Pennsylvania,6th,Merritt,Buford,Pleasonton,Union
+Cavalry,US,1st,Merritt,Buford,Pleasonton,Union
+Cavalry,US,2nd,Merritt,Buford,Pleasonton,Union
+Cavalry,US,5th,Merritt,Buford,Pleasonton,Union
+Cavalry,US,6th,Merritt,Buford,Pleasonton,Union
+Cavalry,Maryland,1st,McIntosh,Gregg,Pleasonton,Union
+Cavalry,Massachusetts,1st,McIntosh,Gregg,Pleasonton,Union
+Cavalry,New Jersey,1st,McIntosh,Gregg,Pleasonton,Union
+Cavalry,Pennsylvania,1st,McIntosh,Gregg,Pleasonton,Union
+Cavalry,Pennsylvania,3rd,McIntosh,Gregg,Pleasonton,Union
+Artillery,Pennsylvania,Bty_H_3rd,McIntosh,Gregg,Pleasonton,Union
+Cavalry,New York,2nd,Huey,Gregg,Pleasonton,Union
+Cavalry,New York,4th,Huey,Gregg,Pleasonton,Union
+Cavalry,Ohio,6th,Huey,Gregg,Pleasonton,Union
+Cavalry,Pennsylvania,8th,Huey,Gregg,Pleasonton,Union
+Cavalry,Maine,1st,Gregg_J,Gregg,Pleasonton,Union
+Cavalry,New York,10th,Gregg_J,Gregg,Pleasonton,Union
+Cavalry,Pennsylvania,4th,Gregg_J,Gregg,Pleasonton,Union
+Cavalry,Pennsylvania,16th,Gregg_J,Gregg,Pleasonton,Union
+Cavalry,New York,5th,Farnsworth,Kilpatrick,Pleasonton,Union
+Cavalry,Pennsylvania,18th,Farnsworth,Kilpatrick,Pleasonton,Union
+Cavalry,Vermont,1st,Farnsworth,Kilpatrick,Pleasonton,Union
+Cavalry,West Virginia,1st,Farnsworth,Kilpatrick,Pleasonton,Union
+Cavalry,Michigan,1st,Custer,Kilpatrick,Pleasonton,Union
+Cavalry,Michigan,5th,Custer,Kilpatrick,Pleasonton,Union
+Cavalry,Michigan,6th,Custer,Kilpatrick,Pleasonton,Union
+Cavalry,Michigan,7th,Custer,Kilpatrick,Pleasonton,Union
+Artillery,Michigan,Bty_9th,Robertson,Horse_Artillery,Pleasonton,Union
+Artillery,New York,Bty_6th,Robertson,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_B_2nd,Robertson,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_L_2nd,Robertson,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_E_4th,Robertson,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_E_1st,Tidball,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_G_1st,Tidball,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_K_1st,Tidball,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_A_2nd,Tidball,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_C_3rd,Tidball,Horse_Artillery,Pleasonton,Union
+Artillery,US,Bty_H_1st,Ransom,Artillery_Reserve,Tyler,Union
+Artillery,US,Bty_F_3rd,Ransom,Artillery_Reserve,Tyler,Union
+Artillery,US,Bty_K_3rd,Ransom,Artillery_Reserve,Tyler,Union
+Artillery,US,Bty_C_4th,Ransom,Artillery_Reserve,Tyler,Union
+Artillery,US,Bty_C_5th,Ransom,Artillery_Reserve,Tyler,Union
+Artillery,Massachusetts,Bty_E_5th_Light,McGilvery,Artillery_Reserve,Tyler,Union
+Artillery,Massachusetts,Bty_9th_Light,McGilvery,Artillery_Reserve,Tyler,Union
+Artillery,New York,Bty_15th_Light,McGilvery,Artillery_Reserve,Tyler,Union
+Artillery,Pennsylvania,Bty_C_Light,McGilvery,Artillery_Reserve,Tyler,Union
+Artillery,Pennsylvania,Bty_F_Light,McGilvery,Artillery_Reserve,Tyler,Union
+Artillery,Connecticut,Bty_B_1st,Taft,Artillery_Reserve,Tyler,Union
+Artillery,Connecticut,Bty_M_1st ,Taft,Artillery_Reserve,Tyler,Union
+Artillery,Connecticut,Bty_2nd_Light,Taft,Artillery_Reserve,Tyler,Union
+Artillery,New York,Bty_5th_Light,Taft,Artillery_Reserve,Tyler,Union
+Artillery,New Hampshire,Bty_1st_Light,Huntington,Artillery_Reserve,Tyler,Union
+Artillery,Ohio,Bty_H_1st_Light,Huntington,Artillery_Reserve,Tyler,Union
+Artillery,Pennsylvania,Bty_F_1st_Light,Huntington,Artillery_Reserve,Tyler,Union
+Artillery,Pennsylvania,Bty_G_1st_Light,Huntington,Artillery_Reserve,Tyler,Union
+Artillery,West Virginia,Bty_C_Light,Huntington,Artillery_Reserve,Tyler,Union
+Artillery,Maine,Bty_F_6th_Light,Fitzhugh,Artillery_Reserve,Tyler,Union
+Artillery,Maryland,Bty_A_Light,Fitzhugh,Artillery_Reserve,Tyler,Union
+Artillery,New Jersey,Bty_1st_Light,Fitzhugh,Artillery_Reserve,Tyler,Union
+Artillery,New York,Bty_G_1st_Light,Fitzhugh,Artillery_Reserve,Tyler,Union
+Artillery,New York,Bty_K_1st_Light,Fitzhugh,Artillery_Reserve,Tyler,Union
+Infantry,South Carolina,2nd,Kershaw,McLaws,Longstreet,Confederate
+Infantry,South Carolina,3rd,Kershaw,McLaws,Longstreet,Confederate
+Infantry,South Carolina,7th,Kershaw,McLaws,Longstreet,Confederate
+Infantry,South Carolina,8th,Kershaw,McLaws,Longstreet,Confederate
+Infantry,South Carolina,15th,Kershaw,McLaws,Longstreet,Confederate
+Infantry,South Carolina,3rd_BN,Kershaw,McLaws,Longstreet,Confederate
+Infantry,Mississippi,13th,Barksdale,McLaws,Longstreet,Confederate
+Infantry,Mississippi,17th,Barksdale,McLaws,Longstreet,Confederate
+Infantry,Mississippi,18th,Barksdale,McLaws,Longstreet,Confederate
+Infantry,Mississippi,21st,Barksdale,McLaws,Longstreet,Confederate
+Infantry,Georgia,10th,Semmes,McLaws,Longstreet,Confederate
+Infantry,Georgia,50th,Semmes,McLaws,Longstreet,Confederate
+Infantry,Georgia,51st,Semmes,McLaws,Longstreet,Confederate
+Infantry,Georgia,53rd,Semmes,McLaws,Longstreet,Confederate
+Infantry,Georgia,16th,Wofford,McLaws,Longstreet,Confederate
+Infantry,Georgia,18th,Wofford,McLaws,Longstreet,Confederate
+Infantry,Georgia,24th,Wofford,McLaws,Longstreet,Confederate
+Infantry,Georgia,Cobb_Legion,Wofford,McLaws,Longstreet,Confederate
+Infantry,Georgia,Phillips_Legion,Wofford,McLaws,Longstreet,Confederate
+Artillery,North Carolina,Bty_A_1st ,Cabell,McLaws,Longstreet,Confederate
+Artillery,Georgia,Bty_Pulaski,Cabell,McLaws,Longstreet,Confederate
+Artillery,Virginia,Bty_Richmond_1st,Cabell,McLaws,Longstreet,Confederate
+Artillery,Georgia,Bty_Troup,Cabell,McLaws,Longstreet,Confederate
+Infantry,Virginia,8th,Garnett,Pickett,Longstreet,Confederate
+Infantry,Virginia,18th,Garnett,Pickett,Longstreet,Confederate
+Infantry,Virginia,19th,Garnett,Pickett,Longstreet,Confederate
+Infantry,Virginia,28th,Garnett,Pickett,Longstreet,Confederate
+Infantry,Virginia,56th,Garnett,Pickett,Longstreet,Confederate
+Infantry,Virginia,1st,Kemper,Pickett,Longstreet,Confederate
+Infantry,Virginia,3rd,Kemper,Pickett,Longstreet,Confederate
+Infantry,Virginia,7th,Kemper,Pickett,Longstreet,Confederate
+Infantry,Virginia,11th,Kemper,Pickett,Longstreet,Confederate
+Infantry,Virginia,24th,Kemper,Pickett,Longstreet,Confederate
+Infantry,Virginia,9th,Armistead,Pickett,Longstreet,Confederate
+Infantry,Virginia,14th,Armistead,Pickett,Longstreet,Confederate
+Infantry,Virginia,88th,Armistead,Pickett,Longstreet,Confederate
+Infantry,Virginia,53rd,Armistead,Pickett,Longstreet,Confederate
+Infantry,Virginia,57th,Armistead,Pickett,Longstreet,Confederate
+Artillery,Virginia,Bty_Fauquier,Dearing,Pickett,Longstreet,Confederate
+Artillery,Virginia,Bty_Hampden,Dearing,Pickett,Longstreet,Confederate
+Artillery,Virginia,Bty_Richmond_Fayette,Dearing,Pickett,Longstreet,Confederate
+Artillery,Virginia,Bty_Virginia,Dearing,Pickett,Longstreet,Confederate
+Infantry,Alabama,4th,Law,Hood,Longstreet,Confederate
+Infantry,Alabama,15th,Law,Hood,Longstreet,Confederate
+Infantry,Alabama,44th,Law,Hood,Longstreet,Confederate
+Infantry,Alabama,47th,Law,Hood,Longstreet,Confederate
+Infantry,Alabama,48th,Law,Hood,Longstreet,Confederate
+Infantry,Arkansas,3rd,Robertson,Hood,Longstreet,Confederate
+Infantry,Texas,1st,Robertson,Hood,Longstreet,Confederate
+Infantry,Texas,4th,Robertson,Hood,Longstreet,Confederate
+Infantry,Texas,5th,Robertson,Hood,Longstreet,Confederate
+Infantry,Georgia,7th,Anderson,Hood,Longstreet,Confederate
+Infantry,Georgia,8th,Anderson,Hood,Longstreet,Confederate
+Infantry,Georgia,9th,Anderson,Hood,Longstreet,Confederate
+Infantry,Georgia,11th,Anderson,Hood,Longstreet,Confederate
+Infantry,Georgia,59th,Anderson,Hood,Longstreet,Confederate
+Infantry,Georgia,2nd,Benning,Hood,Longstreet,Confederate
+Infantry,Georgia,15th,Benning,Hood,Longstreet,Confederate
+Infantry,Georgia,17th,Benning,Hood,Longstreet,Confederate
+Infantry,Georgia,20th,Benning,Hood,Longstreet,Confederate
+Artillery,North Carolina,Bty_Branch,Henry,Hood,Longstreet,Confederate
+Artillery,South Carolina,Bty_German,Henry,Hood,Longstreet,Confederate
+Artillery,South Carolina,Bty_Palmetto,Henry,Hood,Longstreet,Confederate
+Artillery,North Carolina,Bty_Rowan,Henry,Hood,Longstreet,Confederate
+Artillery,Virginia,Bty_Ashland,Alexander,Walton,Longstreet,Confederate
+Artillery,Virginia,Bty_Bedford,Alexander,Walton,Longstreet,Confederate
+Artillery,South Carolina,Bty_Brooks,Alexander,Walton,Longstreet,Confederate
+Artillery,Louisiana,Bty_Madison,Alexander,Walton,Longstreet,Confederate
+Artillery,Virginia,Bty_Virginia,Alexander,Walton,Longstreet,Confederate
+Artillery,Virginia,Bty_Virginia,Alexander,Walton,Longstreet,Confederate
+Artillery,Louisiana,Bty_1st ,Eshleman,Walton,Longstreet,Confederate
+Artillery,Louisiana,Bty_2nd ,Eshleman,Walton,Longstreet,Confederate
+Artillery,Louisiana,Bty_3rd ,Eshleman,Walton,Longstreet,Confederate
+Artillery,Louisiana,Bty_4th ,Eshleman,Walton,Longstreet,Confederate
+Infantry,Louisiana,5th,Hays,Early,Ewell,Confederate
+Infantry,Louisiana,6th,Hays,Early,Ewell,Confederate
+Infantry,Louisiana,7th,Hays,Early,Ewell,Confederate
+Infantry,Louisiana,8th,Hays,Early,Ewell,Confederate
+Infantry,Louisiana,9th,Hays,Early,Ewell,Confederate
+Infantry,Virginia,31st,Smith,Early,Ewell,Confederate
+Infantry,Virginia,49th,Smith,Early,Ewell,Confederate
+Infantry,Virginia,52nd,Smith,Early,Ewell,Confederate
+Infantry,North Carolina,6th,Hoke,Early,Ewell,Confederate
+Infantry,North Carolina,21st,Hoke,Early,Ewell,Confederate
+Infantry,North Carolina,57th,Hoke,Early,Ewell,Confederate
+Infantry,Georgia,13th,Gordon,Early,Ewell,Confederate
+Infantry,Georgia,26th,Gordon,Early,Ewell,Confederate
+Infantry,Georgia,31st,Gordon,Early,Ewell,Confederate
+Infantry,Georgia,38th,Gordon,Early,Ewell,Confederate
+Infantry,Georgia,60th,Gordon,Early,Ewell,Confederate
+Infantry,Georgia,61st,Gordon,Early,Ewell,Confederate
+Artillery,Virginia,Bty_Charlottesville,Jones,Early,Ewell,Confederate
+Artillery,Virginia,Bty_Courtney,Jones,Early,Ewell,Confederate
+Artillery,Louisiana,Bty_Guard,Jones,Early,Ewell,Confederate
+Artillery,Virginia,Bty_Staunton,Jones,Early,Ewell,Confederate
+Infantry,Maryland,1st_Bn,Steuart,Johnson,Ewell,Confederate
+Infantry,North Carolina,1st,Steuart,Johnson,Ewell,Confederate
+Infantry,North Carolina,3rd,Steuart,Johnson,Ewell,Confederate
+Infantry,Virginia,10th,Steuart,Johnson,Ewell,Confederate
+Infantry,Virginia,23rd,Steuart,Johnson,Ewell,Confederate
+Infantry,Virginia,37th,Steuart,Johnson,Ewell,Confederate
+Infantry,Virginia,2nd,Walker,Johnson,Ewell,Confederate
+Infantry,Virginia,4th,Walker,Johnson,Ewell,Confederate
+Infantry,Virginia,5th,Walker,Johnson,Ewell,Confederate
+Infantry,Virginia,27th,Walker,Johnson,Ewell,Confederate
+Infantry,Virginia,33rd,Walker,Johnson,Ewell,Confederate
+Infantry,Louisiana,1st,Nicholls,Johnson,Ewell,Confederate
+Infantry,Louisiana,2nd,Nicholls,Johnson,Ewell,Confederate
+Infantry,Louisiana,10th,Nicholls,Johnson,Ewell,Confederate
+Infantry,Louisiana,14th,Nicholls,Johnson,Ewell,Confederate
+Infantry,Louisiana,15th,Nicholls,Johnson,Ewell,Confederate
+Infantry,Virginia,21st,Jones,Johnson,Ewell,Confederate
+Infantry,Virginia,25th,Jones,Johnson,Ewell,Confederate
+Infantry,Virginia,42nd,Jones,Johnson,Ewell,Confederate
+Infantry,Virginia,44th,Jones,Johnson,Ewell,Confederate
+Infantry,Virginia,48th,Jones,Johnson,Ewell,Confederate
+Infantry,Virginia,50th,Jones,Johnson,Ewell,Confederate
+Artillery,Maryland,Bty_1st,Latimer,Johnson,Ewell,Confederate
+Artillery,Virginia,Bty_Alleghany,Latimer,Johnson,Ewell,Confederate
+Artillery,Maryland,Bty_Chesapeake,Latimer,Johnson,Ewell,Confederate
+Artillery,Virginia,Bty_Lee,Latimer,Johnson,Ewell,Confederate
+Infantry,North Carolina,32nd,Daniel,Rodes,Ewell,Confederate
+Infantry,North Carolina,43rd,Daniel,Rodes,Ewell,Confederate
+Infantry,North Carolina,15th,Daniel,Rodes,Ewell,Confederate
+Infantry,North Carolina,53rd,Daniel,Rodes,Ewell,Confederate
+Infantry,North Carolina,2nd_Bn,Daniel,Rodes,Ewell,Confederate
+Infantry,Georgia,4th,Doles,Rodes,Ewell,Confederate
+Infantry,Georgia,12th,Doles,Rodes,Ewell,Confederate
+Infantry,Georgia,21st,Doles,Rodes,Ewell,Confederate
+Infantry,Georgia,44th,Doles,Rodes,Ewell,Confederate
+Infantry,North Carolina,5th,Iverson,Rodes,Ewell,Confederate
+Infantry,North Carolina,12th,Iverson,Rodes,Ewell,Confederate
+Infantry,North Carolina,20th,Iverson,Rodes,Ewell,Confederate
+Infantry,North Carolina,23rd,Iverson,Rodes,Ewell,Confederate
+Infantry,North Carolina,2nd,Ramseur,Rodes,Ewell,Confederate
+Infantry,North Carolina,4th,Ramseur,Rodes,Ewell,Confederate
+Infantry,North Carolina,14th,Ramseur,Rodes,Ewell,Confederate
+Infantry,North Carolina,30th,Ramseur,Rodes,Ewell,Confederate
+Infantry,Alabama,3rd,Oneal,Rodes,Ewell,Confederate
+Infantry,Alabama,5th,Oneal,Rodes,Ewell,Confederate
+Infantry,Alabama,6th,Oneal,Rodes,Ewell,Confederate
+Infantry,Alabama,12th,Oneal,Rodes,Ewell,Confederate
+Infantry,Alabama,26th,Oneal,Rodes,Ewell,Confederate
+Artillery,Alabama,Bty_Jeff.Davis,Carter,Rodes,Ewell,Confederate
+Artillery,Virginia,Bty_King.William,Carter,Rodes,Ewell,Confederate
+Artillery,Virginia,Bty_Morris,Carter,Rodes,Ewell,Confederate
+Artillery,Virginia,Bty_Orange,Carter,Rodes,Ewell,Confederate
+Artillery,Virginia,Bty_2nd_Richmond,Dance,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_3rd_Richmond,Dance,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_Powhatan,Dance,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_Rockbridge,Dance,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_Salem,Dance,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_Amherst,Nelson,Brown,Ewell,Confederate
+Artillery,Virginia,Bty_Fluvanna,Nelson,Brown,Ewell,Confederate
+Artillery,Georgia,Bty_Georgia,Nelson,Brown,Ewell,Confederate
+Infantry,Alabama,8th,Wilcox,Anderson,Hill,Confederate
+Infantry,Alabama,9th,Wilcox,Anderson,Hill,Confederate
+Infantry,Alabama,10th,Wilcox,Anderson,Hill,Confederate
+Infantry,Alabama,11th,Wilcox,Anderson,Hill,Confederate
+Infantry,Alabama,14th,Wilcox,Anderson,Hill,Confederate
+Infantry,Virginia,6th,Mahone,Anderson,Hill,Confederate
+Infantry,Virginia,12th,Mahone,Anderson,Hill,Confederate
+Infantry,Virginia,16th,Mahone,Anderson,Hill,Confederate
+Infantry,Virginia,41st,Mahone,Anderson,Hill,Confederate
+Infantry,Virginia,61st,Mahone,Anderson,Hill,Confederate
+Infantry,Georgia,3rd,Wright,Anderson,Hill,Confederate
+Infantry,Georgia,22nd,Wright,Anderson,Hill,Confederate
+Infantry,Georgia,48th,Wright,Anderson,Hill,Confederate
+Infantry,Georgia,2nd_Bn,Wright,Anderson,Hill,Confederate
+Infantry,Florida,2nd,Lang,Anderson,Hill,Confederate
+Infantry,Florida,5th,Lang,Anderson,Hill,Confederate
+Infantry,Florida,8th,Lang,Anderson,Hill,Confederate
+Infantry,Mississippi,12th,Posey,Anderson,Hill,Confederate
+Infantry,Mississippi,16th,Posey,Anderson,Hill,Confederate
+Infantry,Mississippi,19th,Posey,Anderson,Hill,Confederate
+Infantry,Mississippi,48th,Posey,Anderson,Hill,Confederate
+Artillery,South Carolina,Bty_A_Sumter,Lane,Anderson,Hill,Confederate
+Artillery,South Carolina,Bty_B_Sumter,Lane,Anderson,Hill,Confederate
+Artillery,South Carolina,Bty_C_Sumter,Lane,Anderson,Hill,Confederate
+Infantry,North Carolina,11th,Pettigrew,Heth,Hill,Confederate
+Infantry,North Carolina,26th,Pettigrew,Heth,Hill,Confederate
+Infantry,North Carolina,47th,Pettigrew,Heth,Hill,Confederate
+Infantry,North Carolina,52nd,Pettigrew,Heth,Hill,Confederate
+Infantry,Virginia,40th,Brockenbrough,Heth,Hill,Confederate
+Infantry,Virginia,47th,Brockenbrough,Heth,Hill,Confederate
+Infantry,Virginia,55th,Brockenbrough,Heth,Hill,Confederate
+Infantry,Virginia,22nd_Bn,Brockenbrough,Heth,Hill,Confederate
+Infantry,Alabama,13th,Archer,Heth,Hill,Confederate
+Infantry,Alabama,5th_Bn,Archer,Heth,Hill,Confederate
+Infantry,Tennessee,1st,Archer,Heth,Hill,Confederate
+Infantry,Tennessee,7th,Archer,Heth,Hill,Confederate
+Infantry,Tennessee,14th,Archer,Heth,Hill,Confederate
+Infantry,Mississippi,2nd,Davis,Heth,Hill,Confederate
+Infantry,Mississippi,11th,Davis,Heth,Hill,Confederate
+Infantry,Mississippi,42nd,Davis,Heth,Hill,Confederate
+Infantry,Mississippi,55th,Davis,Heth,Hill,Confederate
+Artillery,Louisiana,Bty_Donaldsonville,Garnett,Heth,Hill,Confederate
+Artillery,Virginia,Bty_Huger,Garnett,Heth,Hill,Confederate
+Artillery,Virginia,Bty_Lewis,Garnett,Heth,Hill,Confederate
+Artillery,Virginia,Bty_Norfolk_Light,Garnett,Heth,Hill,Confederate
+Infantry,South Carolina,1st,Perrin,Pender,Hill,Confederate
+Infantry,South Carolina,1st_Rifles,Perrin,Pender,Hill,Confederate
+Infantry,South Carolina,12th,Perrin,Pender,Hill,Confederate
+Infantry,South Carolina,13th,Perrin,Pender,Hill,Confederate
+Infantry,South Carolina,14th,Perrin,Pender,Hill,Confederate
+Infantry,North Carolina,7th,Lane,Pender,Hill,Confederate
+Infantry,North Carolina,18th,Lane,Pender,Hill,Confederate
+Infantry,North Carolina,28th,Lane,Pender,Hill,Confederate
+Infantry,North Carolina,33rd,Lane,Pender,Hill,Confederate
+Infantry,North Carolina,37th,Lane,Pender,Hill,Confederate
+Infantry,Georgia,14th,Thomas,Pender,Hill,Confederate
+Infantry,Georgia,35th,Thomas,Pender,Hill,Confederate
+Infantry,Georgia,45th,Thomas,Pender,Hill,Confederate
+Infantry,Georgia,49th,Thomas,Pender,Hill,Confederate
+Infantry,North Carolina,13th,Scales,Pender,Hill,Confederate
+Infantry,North Carolina,16th,Scales,Pender,Hill,Confederate
+Infantry,North Carolina,22nd,Scales,Pender,Hill,Confederate
+Infantry,North Carolina,34th,Scales,Pender,Hill,Confederate
+Infantry,North Carolina,38th,Scales,Pender,Hill,Confederate
+Artillery,Virginia,Bty_Albemarle,Poague,Pender,Hill,Confederate
+Artillery,North Carolina,Bty_Charlotte ,Poague,Pender,Hill,Confederate
+Artillery,Mississippi,Bty_Madison_Light,Poague,Pender,Hill,Confederate
+Artillery,Virginia,Bty_Virginia,Poague,Pender,Hill,Confederate
+Artillery,Virginia,Bty_Danville,McIntosh,Walker,Pendleton,Confederate
+Artillery,Alabama,Bty_Hardaway,McIntosh,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_2nd_Rockbridge,McIntosh,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_Virginia,McIntosh,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_Crenshaw,Pegram,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_Fredericksburg,Pegram,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_Letcher,Pegram,Walker,Pendleton,Confederate
+Artillery,South Carolina,Bty_PeeDee,Pegram,Walker,Pendleton,Confederate
+Artillery,Virginia,Bty_Purcell,Pegram,Walker,Pendleton,Confederate
+Cavalry,North Carolina,1st,Hampton,Stuart,Stuart,Confederate
+Cavalry,South Carolina,1st,Hampton,Stuart,Stuart,Confederate
+Cavalry,South Carolina,2nd,Hampton,Stuart,Stuart,Confederate
+Cavalry,Georgia,Cobb_Legion,Hampton,Stuart,Stuart,Confederate
+Cavalry,Mississippi,JeffDavis_Legion,Hampton,Stuart,Stuart,Confederate
+Cavalry,Georgia,Phillips_Legion,Hampton,Stuart,Stuart,Confederate
+Cavalry,North Carolina,4th,Robertson,Stuart,Stuart,Confederate
+Cavalry,North Carolina,5th,Robertson,Stuart,Stuart,Confederate
+Cavalry,Maryland,1st_Bn,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,1st,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,2nd,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,3rd,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,4th,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,5th,Fitz_Lee,Stuart,Stuart,Confederate
+Cavalry,Virginia,14th,Jenkins,Stuart,Stuart,Confederate
+Cavalry,Virginia,16th,Jenkins,Stuart,Stuart,Confederate
+Cavalry,Virginia,17th,Jenkins,Stuart,Stuart,Confederate
+Cavalry,Virginia,34th_Bn,Jenkins,Stuart,Stuart,Confederate
+Cavalry,Virginia,36th_Bn,Jenkins,Stuart,Stuart,Confederate
+Artillery,Virginia,Bty_Jackson,Jenkins,Stuart,Stuart,Confederate
+Cavalry,Virginia,6th,Jones,Stuart,Stuart,Confederate
+Cavalry,Virginia,7th,Jones,Stuart,Stuart,Confederate
+Cavalry,Virginia,11th,Jones,Stuart,Stuart,Confederate
+Cavalry,North Carolina,2nd,Chambliss,Stuart,Stuart,Confederate
+Cavalry,Virginia,9th,Chambliss,Stuart,Stuart,Confederate
+Cavalry,Virginia,10th,Chambliss,Stuart,Stuart,Confederate
+Cavalry,Virginia,13th,Chambliss,Stuart,Stuart,Confederate
+Artillery,Virginia,Bty_Breathed,Beckham,Stuart,Stuart,Confederate
+Artillery,Virginia,Bty_Chew,Beckham,Stuart,Stuart,Confederate
+Artillery,Maryland,Bty_Griffin,Beckham,Stuart,Stuart,Confederate
+Artillery,South Carolina,Bty_Hart,Beckham,Stuart,Stuart,Confederate
+Artillery,Virginia,Bty_McGregor,Beckham,Stuart,Stuart,Confederate
+Artillery,Virginia,Bty_Moorman,Beckham,Stuart,Stuart,Confederate
